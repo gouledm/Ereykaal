@@ -1,0 +1,54 @@
+[
+	{
+		"word": "find",
+		"phonetic": "/faɪnd/",
+		"meanings": [
+			{
+				"partOfSpeech": "noun",
+				"definitions": [
+					{
+						"definition": "Anything that is found (usually valuable), as objects on an archeological site or a person with talent.",
+						"synonyms": [],
+						"antonyms": []
+					},
+					{
+						"definition": "The act of finding.",
+						"synonyms": [],
+						"antonyms": []
+					}
+				],
+				"synonyms": [
+					"catch",
+					"discovery"
+				],
+				"antonyms": []
+			},
+			{
+				"partOfSpeech": "verb",
+				"definitions": [
+					{
+						"definition": "To encounter or discover by accident; to happen upon.",
+						"synonyms": [],
+						"antonyms": []
+					},
+					{
+						"definition": "To encounter or discover something being searched for; to locate.",
+						"synonyms": [],
+						"antonyms": [],
+						"example": "I found my car keys. They were under the couch."
+					},
+					{
+						"definition": "(ditransitive) To discover by study or experiment direct to an object or end.",
+						"synonyms": [],
+						"antonyms": [],
+						"example": "Water is found to be a compound substance."
+					}
+				],
+				"synonyms": [],
+				"antonyms": [
+					"lose"
+				]
+			}
+		]
+	}
+]
